@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProcessLog xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Id>f380ad7c-1597-4ed3-baa6-614447f365f2</Id>
+  <Name>Cucc</Name>
+  <Type>LABEL_Alert</Type>
+  <TreeId>76db4183-523e-4b45-aa59-2279a8d61a8e</TreeId>
+  <ProcessId xsi:nil="true" />
+  <ScheduleId>6</ScheduleId>
+  <AlertXML>
+    <Id>21ea9288-96b1-441b-b31e-3bc66bbab219</Id>
+    <Name>Cucc</Name>
+    <TreeId>76db4183-523e-4b45-aa59-2279a8d61a8e</TreeId>
+    <AlertElementList>
+      <AlertElement>
+        <IsActive>true</IsActive>
+        <NodeId>ef1f0745-3411-4749-a8af-7aee0b91be40</NodeId>
+        <NodePath />
+        <NodeName>Avg</NodeName>
+        <Level>0</Level>
+        <WarningLimitName>PlanWL</WarningLimitName>
+        <StreamIdList>
+          <int>0</int>
+        </StreamIdList>
+        <Past>200</Past>
+        <Future>0</Future>
+        <Resolution>68</Resolution>
+      </AlertElement>
+    </AlertElementList>
+    <CreateDate>2022-07-04T16:23:23.943+02:00</CreateDate>
+    <CreateByLoginName />
+    <CreateByName />
+    <ModifyDate>2022-07-04T11:24:10.8409039+02:00</ModifyDate>
+    <ModifyByLoginName>yeti</ModifyByLoginName>
+    <IsSynchronizable>false</IsSynchronizable>
+    <IsFolder>false</IsFolder>
+  </AlertXML>
+  <TimeStampStart>2022-07-04T11:25:09.05</TimeStampStart>
+  <TimeStampEnd>2022-07-04T11:25:09.05</TimeStampEnd>
+  <LoginName>scheduler</LoginName>
+  <Code>a6bb7414-42d7-4046-ae2a-c6816eafc843</Code>
+  <Status>LABEL_Successed</Status>
+  <Progress>100</Progress>
+  <WarrningList />
+</ProcessLog>
